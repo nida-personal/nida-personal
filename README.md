@@ -13,6 +13,8 @@
 ![Python](https://img.shields.io/badge/Python-Scripting-3776AB?style=flat&logo=python&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-Automation-5391FE?style=flat&logo=powershell&logoColor=white)
 
+👉 **[Learn More](https://nida-personal.github.io/nida_firdous_itsupport_portfolio/)**
+
 ## 📂 Featured Work
 
 ### 🔥 IT Support Helpdesk Portfolio
@@ -39,7 +41,7 @@ A lightweight HTML/JavaScript ticket logging interface demonstrating front-end f
 
 ## 🌐 Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-nidafirdous-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/nidafirdous)
-[![Portfolio](https://img.shields.io/badge/Portfolio-IT_Support-1a3355?style=flat)](https://nida-personal.github.io/it-support-helpdesk-portfolio)
+[![Portfolio](https://img.shields.io/badge/Portfolio-IT_Support-1a3355?style=flat)](https://nida-personal.github.io/nida_firdous_itsupport_portfolio/)
 [![Ansible Galaxy](https://img.shields.io/badge/Ansible%20Galaxy-linux__user__provisioning-EE0000?style=flat&logo=ansible)](https://galaxy.ansible.com/ui/standalone/roles/42942)
 
 📍 Cambridge, ON | 🛂 PGWP Holder | ✅ No Sponsorship Required | ⚡ Available Immediately
