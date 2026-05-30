@@ -13,7 +13,7 @@
 ![Python](https://img.shields.io/badge/Python-Scripting-3776AB?style=flat&logo=python&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-Automation-5391FE?style=flat&logo=powershell&logoColor=white)
 
-👉 **[Learn More](https://nida-personal.github.io/nida_firdous_itsupport_portfolio/)**
+**Learn More 👉 [nida_firdous_itsupport_portfolio/](https://nida-personal.github.io/nida_firdous_itsupport_portfolio/)**
 
 ## 📂 Featured Work
 
