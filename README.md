@@ -36,9 +36,6 @@ A lightweight HTML/JavaScript ticket logging interface demonstrating front-end f
 ### ⚙️ Technical Automation (Previous Role Depth)
 **[ansible-role-linux-user-provisioning](https://github.com/nida-personal/ansible-role-linux-user-provisioning)** — Published on Ansible Galaxy. Automates Linux user provisioning with CI via GitHub Actions. Built from enterprise experience managing 1,200+ nodes at TCS.
 
-## 📊 GitHub Activity
-![Nida's GitHub stats](https://github-readme-stats.vercel.app/api?username=nida-personal&show_icons=true&theme=default&hide_border=true)
-
 ## 🌐 Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-nidafirdous-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/nidafirdous)
 [![Portfolio](https://img.shields.io/badge/Portfolio-IT_Support-1a3355?style=flat)](https://nida-personal.github.io/nida_firdous_itsupport_portfolio/)
